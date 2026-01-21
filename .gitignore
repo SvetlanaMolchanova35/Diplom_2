@@ -38,8 +38,6 @@ env/
 Thumbs.db
 
 # Allure
-allure-results/
-allure-report/
 .test_results/
 
 # Coverage

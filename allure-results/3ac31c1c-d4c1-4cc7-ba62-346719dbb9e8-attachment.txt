@@ -1,0 +1,1 @@
+Полученный токен: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5NzBmZjQ2OTg0MjcwMDAxYmUzYzM4NCIsImlhdCI6MTc2OTAxMzA2MiwiZXhwIjoxNzY5MDE0MjYyfQ.PT9Hqo-cPg-hsoJdna1SjAZjHVmF6Zm_LMcNXsgufxs
